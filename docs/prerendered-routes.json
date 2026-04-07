@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/uploadedPortfolio": {},
+    "/uploadedPortfolio/contacto": {},
+    "/uploadedPortfolio/proyectos": {},
+    "/uploadedPortfolio/proyectos/kindxo": {},
+    "/uploadedPortfolio/proyectos/moais": {},
+    "/uploadedPortfolio/proyectos/osha": {},
+    "/uploadedPortfolio/proyectos/posttalker": {}
+  }
+}
